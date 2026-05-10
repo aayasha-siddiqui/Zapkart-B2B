@@ -225,58 +225,7 @@ Delivered
 * Database Relationships
 * Order Tracking Logic
 
----
 
-# ⚙️ Installation Guide
-
-## Clone Repository
-
-```bash
-git clone https://github.com/aayasha-siddiqui/Zapkart-B2B.git
-```
-
-## Move to Project Folder
-
-```bash
-cd Zapkart-B2B
-```
-
-## Install Dependencies
-
-```bash
-composer install
-npm install
-```
-
-## Setup Environment File
-
-```bash
-cp .env.example .env
-```
-
-Update database credentials inside `.env`
-
----
-
-## Generate App Key
-
-```bash
-php artisan key:generate
-```
-
-## Run Migrations
-
-```bash
-php artisan migrate
-```
-
-## Run Project
-
-```bash
-php artisan serve
-```
-
----
 
 # 🌟 Future Enhancements
 
