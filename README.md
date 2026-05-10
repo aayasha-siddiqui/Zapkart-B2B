@@ -29,7 +29,7 @@ The platform supports:
 * 👤 User management
 * 🧑‍✈️ Delivery partner system
 * 🔐 Authentication & authorization
-* ❌ Order cancellation & refund system
+* ❌ Order cancellation
 * 📊 Admin dashboard & analytics
 * 🏪 Multi-vendor B2B workflow
 
