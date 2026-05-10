@@ -4,7 +4,7 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-Framework-red?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-Backend-blue?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### 🚀 Advanced Multi Vendor B2B Ecommerce & Delivery Management System
