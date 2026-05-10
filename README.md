@@ -73,7 +73,10 @@ The project is designed to provide a complete business ecosystem where users, se
 * Order management
 * Delivery assignment system
 * Payment monitoring
-* Refund & cancellation handling
+*  cancellation handling
+*  shopkeper Added handle
+*  track order
+*  payment  invoice
 * Reports & analytics
 * System activity monitoring
 
