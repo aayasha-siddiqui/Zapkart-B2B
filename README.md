@@ -8,7 +8,7 @@ A scalable Laravel-based ecommerce ecosystem designed for modern grocery, wareho
 
 ![Laravel](https://img.shields.io/badge/Laravel-Framework-red)
 ![PHP](https://img.shields.io/badge/PHP-Backend-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![PgSQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![Multi Vendor](https://img.shields.io/badge/Multi--Vendor-B2B-success)
 ![Status](https://img.shields.io/badge/Project-Production_Ready-brightgreen)
 
