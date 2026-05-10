@@ -1,34 +1,45 @@
-Zapkart-B2B
-🛒 Zapkart-B2B
-Complete Laravel B2B Ecommerce & Delivery Management Platform
+# 🛒 Zapkart-B2B
+
+## Complete Laravel B2B Ecommerce & Delivery Management Platform
 
 A powerful multi-vendor ecommerce and delivery management system built with Laravel.
 
+* Laravel Framework
+* PHP Backend
+* MySQL Database
+* Multi Vendor Ecommerce System
+* Delivery Tracking System
+* Seller & Shopkeeper Management
+* Admin Dashboard
 
+---
 
-
-📌 Project Overview
+# 📌 Project Overview
 
 Zapkart-B2B is a complete ecommerce and B2B delivery management platform developed using Laravel.
 
 The platform supports:
 
-🛍️ Ecommerce shopping system
-🛒 Add to cart functionality
-💳 Online payment system
-📦 Order management
-🚚 Delivery tracking system
-👨‍💼 Seller/Shopkeeper management
-👤 User management
-🧑‍✈️ Delivery partner system
-🔐 Authentication & authorization
-❌ Order cancellation & refund system
-📊 Admin dashboard & analytics
-🏪 Multi-vendor B2B workflow
+* 🛍️ Ecommerce shopping system
+* 🛒 Add to cart functionality
+* 💳 Online payment system
+* 📦 Order management
+* 🚚 Delivery tracking system
+* 👨‍💼 Seller/Shopkeeper management
+* 👤 User management
+* 🧑‍✈️ Delivery partner system
+* 🔐 Authentication & authorization
+* ❌ Order cancellation & refund system
+* 📊 Admin dashboard & analytics
+* 🏪 Multi-vendor B2B workflow
 
 The project is designed to provide a complete business ecosystem where users, sellers, admins, and delivery partners can work together in a proper ecommerce environment.
 
-🏗️ System Architecture
+---
+
+# 🏗️ System Architecture
+
+```
                      ┌──────────────────┐
                      │      ADMIN       │
                      │ Dashboard System │
@@ -46,58 +57,85 @@ The project is designed to provide a complete business ecosystem where users, se
  ┌────────────┐      ┌──────────────┐      ┌──────────────┐
  │  PRODUCTS  │      │    ORDERS    │      │  DELIVERIES  │
  └────────────┘      └──────────────┘      └──────────────┘
-🚀 Main Features
-👨‍💻 Admin Panel
-Complete admin dashboard
-Create and manage sellers
-Manage users and customers
-Manage delivery partners
-Product and category management
-Order management
-Delivery assignment system
-Payment monitoring
-Refund & cancellation handling
-Reports & analytics
-System activity monitoring
-🏪 Seller / Shopkeeper Module
-Seller registration/login
-Product upload system
-Product inventory management
-Manage product pricing
-Order handling
-Delivery coordination
-Sales reports
-Customer order management
-👤 User Ecommerce Module
-User registration/login
-Browse products
-Product search & filtering
-Add to cart system
-Wishlist support
-Checkout process
-Online payment integration
-Order placement
-Order cancellation
-Order cancellation option
-Delivery tracking
-Order history
-🚚 Delivery Partner System
-Delivery partner registration
-Delivery assignment
-Delivery acceptance/rejection
-Real-time delivery updates
-Delivery status tracking
-Earnings management
-Completed delivery history
-Route & order management
-💳 Payment & Order Management System
-Online payment support
-COD support
-Payment status management
-Order cancellation system
-Order cancellation support
-Secure transaction workflow
-📦 Order Workflow
+```
+
+---
+
+# 🚀 Main Features
+
+# 👨‍💻 Admin Panel
+
+* Complete admin dashboard
+* Create and manage sellers
+* Manage users and customers
+* Manage delivery partners
+* Product and category management
+* Order management
+* Delivery assignment system
+* Payment monitoring
+* Refund & cancellation handling
+* Reports & analytics
+* System activity monitoring
+
+---
+
+# 🏪 Seller / Shopkeeper Module
+
+* Seller registration/login
+* Product upload system
+* Product inventory management
+* Manage product pricing
+* Order handling
+* Delivery coordination
+* Sales reports
+* Customer order management
+
+---
+
+# 👤 User Ecommerce Module
+
+* User registration/login
+* Browse products
+* Product search & filtering
+* Add to cart system
+* Wishlist support
+* Checkout process
+* Online payment integration
+* Order placement
+* Order cancellation
+* Order cancellation option
+* Delivery tracking
+* Order history
+
+---
+
+# 🚚 Delivery Partner System
+
+* Delivery partner registration
+* Delivery assignment
+* Delivery acceptance/rejection
+* Real-time delivery updates
+* Delivery status tracking
+* Earnings management
+* Completed delivery history
+* Route & order management
+
+---
+
+# 💳 Payment & Order Management System
+
+* Online payment support
+* COD support
+* Payment status management
+* Order cancellation system
+* Order cancellation support
+* Secure transaction workflow
+
+---
+
+# 📦 Order Workflow
+
+```
 User Places Order
         │
         ▼
@@ -117,7 +155,13 @@ Live Tracking Enabled
         │
         ▼
 Order Delivered Successfully
-📍 Delivery Tracking Workflow
+```
+
+---
+
+# 📍 Delivery Tracking Workflow
+
+```
 Order Placed
       │
       ▼
@@ -131,52 +175,122 @@ Live Delivery Tracking
       │
       ▼
 Delivered
-🧩 Core Modules
-Authentication System
-Role Management
-Ecommerce System
-Cart Management
-Product Management
-Category Management
-Order Management
-Delivery Tracking
-Seller Management
-User Management
-Payment System
-Admin Dashboard
-Notifications System
-🛠️ Technology Stack
-Backend
-Laravel
-PHP
-MySQL
-REST APIs
-Frontend
-Blade Templates
-HTML5
-CSS3
-JavaScript
-Bootstrap / Tailwind CSS
-Additional Tools
-Authentication System
-Middleware
-Role-based Access Control
-Database Relationships
-Order Tracking Logic  
+```
 
+---
 
+# 🧩 Core Modules
 
-🌟 Future Enhancements
-📱 Mobile Application
-📍 GPS Live Tracking
-🤖 AI Delivery Optimization
-🔔 Push Notifications
-📈 Advanced Analytics
-💬 Live Chat Support
-🌐 Multi-language Support
-☁️ Cloud Deployment
-📷 Project Highlights
-🛒 Ecommerce Features
+* Authentication System
+* Role Management
+* Ecommerce System
+* Cart Management
+* Product Management
+* Category Management
+* Order Management
+* Delivery Tracking
+* Seller Management
+* User Management
+* Payment System
+* Admin Dashboard
+* Notifications System
+
+---
+
+# 🛠️ Technology Stack
+
+## Backend
+
+* Laravel
+* PHP
+* MySQL
+* REST APIs
+
+## Frontend
+
+* Blade Templates
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap / Tailwind CSS
+
+## Additional Tools
+
+* Authentication System
+* Middleware
+* Role-based Access Control
+* Database Relationships
+* Order Tracking Logic
+
+---
+
+# ⚙️ Installation Guide
+
+## Clone Repository
+
+```bash
+git clone https://github.com/aayasha-siddiqui/Zapkart-B2B.git
+```
+
+## Move to Project Folder
+
+```bash
+cd Zapkart-B2B
+```
+
+## Install Dependencies
+
+```bash
+composer install
+npm install
+```
+
+## Setup Environment File
+
+```bash
+cp .env.example .env
+```
+
+Update database credentials inside `.env`
+
+---
+
+## Generate App Key
+
+```bash
+php artisan key:generate
+```
+
+## Run Migrations
+
+```bash
+php artisan migrate
+```
+
+## Run Project
+
+```bash
+php artisan serve
+```
+
+---
+
+# 🌟 Future Enhancements
+
+* 📱 Mobile Application
+* 📍 GPS Live Tracking
+* 🤖 AI Delivery Optimization
+* 🔔 Push Notifications
+* 📈 Advanced Analytics
+* 💬 Live Chat Support
+* 🌐 Multi-language Support
+* ☁️ Cloud Deployment
+
+---
+
+# 📷 Project Highlights
+
+## 🛒 Ecommerce Features
 
 ✅ User Registration & Login
 ✅ Product Browsing
@@ -189,7 +303,9 @@ Order Tracking Logic
 ✅ Order Cancellation
 ✅ Delivery Tracking
 
-🏪 Seller / Shopkeeper Features
+---
+
+## 🏪 Seller / Shopkeeper Features
 
 ✅ Seller Dashboard
 ✅ Product Upload & Management
@@ -199,7 +315,9 @@ Order Tracking Logic
 ✅ Delivery Coordination
 ✅ Sales Monitoring
 
-🚚 Delivery Partner Features
+---
+
+## 🚚 Delivery Partner Features
 
 ✅ Delivery Partner Registration
 ✅ Delivery Assignment
@@ -208,7 +326,9 @@ Order Tracking Logic
 ✅ Live Order Tracking Workflow
 ✅ Completed Delivery Records
 
-👨‍💻 Admin Features
+---
+
+## 👨‍💻 Admin Features
 
 ✅ Admin Dashboard
 ✅ User Management
@@ -219,42 +339,78 @@ Order Tracking Logic
 ✅ System Analytics
 ✅ Product & Category Management
 
-🧠 How the System Works
-Step 1 — User Places Order
+---
+
+# 🧠 How the System Works
+
+## Step 1 — User Places Order
 
 The customer browses products, adds items to the cart, and places an order using the checkout system.
 
-Step 2 — Seller Receives Order
+---
+
+## Step 2 — Seller Receives Order
 
 The shopkeeper/seller receives the order request and prepares the product for delivery.
 
-Step 3 — Delivery Partner Assignment
+---
+
+## Step 3 — Delivery Partner Assignment
 
 The admin or system assigns the order to a delivery partner.
 
-Step 4 — Order Tracking
+---
+
+## Step 4 — Order Tracking
 
 The delivery partner updates the delivery status while the customer can track the order in real time.
 
-Step 5 — Successful Delivery
+---
+
+## Step 5 — Successful Delivery
 
 The order gets delivered successfully and the system updates the final delivery status.
 
-🎯 Purpose of the Project
+---
+
+# 🎯 Purpose of the Project
 
 The goal of Zapkart-B2B is to create a complete ecommerce and B2B business management platform where:
 
-Customers can easily shop online
-Sellers can manage products and orders
-Delivery partners can handle deliveries efficiently
-Admin can control and monitor the entire system
+* Customers can easily shop online
+* Sellers can manage products and orders
+* Delivery partners can handle deliveries efficiently
+* Admin can control and monitor the entire system
 
 This platform combines ecommerce operations with delivery management into one complete Laravel-based solution.
 
-📷 Project Highlights
+---
 
-✅ Ecommerce System ✅ Add to Cart ✅ Online Payments ✅ Refund & Cancellation ✅ Delivery Tracking ✅ Seller Dashboard ✅ User Dashboard ✅ Admin Panel ✅ Delivery Boy Management ✅ Multi Vendor B2B Workflow ✅ Laravel Based Architecture
+# 📷 Project Highlights
 
-👨‍💻 Developer
-Ayesha Siddiqui
+✅ Ecommerce System
+✅ Add to Cart
+✅ Online Payments
+✅ Refund & Cancellation
+✅ Delivery Tracking
+✅ Seller Dashboard
+✅ User Dashboard
+✅ Admin Panel
+✅ Delivery Boy Management
+✅ Multi Vendor B2B Workflow
+✅ Laravel Based Architecture
 
+---
+
+# 👨‍💻 Developer
+
+### Ayesha Siddiqui
+
+GitHub:
+[https://github.com/aayasha-siddiqui](https://github.com/aayasha-siddiqui)
+
+---
+
+# 📄 License
+
+This project is developed for educational, portfolio, and commercial learning purposes.
